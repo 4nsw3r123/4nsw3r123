@@ -1,6 +1,12 @@
-### Hi there 👋
+###  HELLO！ 👋
 I'm 4nsw3r.This is my github.
-我是 4nsw3r ，来自杭州电子科技大学！这是我的 github ！
+about me:
+🔭 CTF-RE
+🌱 杭州电子科技大学在读
+👯 [@Vidar-Team](https://vidar.club)
+📫 [4nsw3r's blog](https://4nsw3r.top)
+📧 [email](mailto:2239888030@qq.com)
+
 <!--
 **4nsw3r123/4nsw3r123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
