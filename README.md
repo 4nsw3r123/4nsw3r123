@@ -1,11 +1,11 @@
 ###  HELLO！ 👋
 I'm 4nsw3r.This is my github.
-about me:
-🔭 CTF-RE
-🌱 杭州电子科技大学在读
-👯 [@Vidar-Team](https://vidar.club)
-📫 [4nsw3r's blog](https://4nsw3r.top)
-📧 [email](mailto:2239888030@qq.com)
+### about me:
+- 🔭 CTF-RE
+- 🌱 杭州电子科技大学在读
+- 👯 [@Vidar-Team](https://vidar.club)
+- 📫 [4nsw3r's blog](https://4nsw3r.top)
+- 📧 [email](mailto:2239888030@qq.com)
 
 <!--
 **4nsw3r123/4nsw3r123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
